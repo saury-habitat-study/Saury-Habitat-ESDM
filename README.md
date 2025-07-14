@@ -16,8 +16,8 @@ The core ensemble species distribution modeling framework is implemented using t
 
 The following components were developed independently by the authors for this study:
 
--   **Deep Learning Model for Fishing Behavior Identification (`fishing_behavior_CNN_LSTM.py`):** The Python script defining the CNN-LSTM architecture and the data preprocessing pipeline for identifying fishing states from AIS data is our original work.
--   **Threshold-based Classification Script (`vessel_state_visualization.R`):** The R script for classifying vessel states using a threshold-based method and generating the corresponding ridge plots is our original work.
+-   **Deep Learning Model for Fishing Behavior Identification :** The Python script defining the CNN-LSTM architecture and the data preprocessing pipeline for identifying fishing states from AIS data is our original work.
+-   **Threshold-based Classification Script :** The R script for classifying vessel states using a threshold-based method and generating the corresponding ridge plots is our original work.
 -   **Data Visualization Scripts:** All scripts used to generate the final figures for the manuscript (e.g., `plot_VIF.py`, `plot_factor_contributions.py`, `plot_centroid_shift.R`) are custom scripts developed for this study.
 
 ## How to Use

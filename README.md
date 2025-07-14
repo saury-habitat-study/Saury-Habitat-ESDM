@@ -1,4 +1,4 @@
-# Code for "Habitat Shifts of Pacific Saury..."
+# Code for "Habitat Shifts of Pacific Saury (Cololabis saira) population in the High Seas of the North Pacific under medium to long-term Climate Scenarios Based on Vessel Position Da-ta and Ensemble Species Distribution Models"
 
 This repository contains the R and Python scripts used for the analysis in the manuscript titled "Habitat Shifts of Pacific Saury (*Cololabis saira*) population in the High Seas of the North Pacific under medium to long-term Climate Scenarios...".
 
